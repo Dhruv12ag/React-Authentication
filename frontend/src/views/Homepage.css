@@ -1,0 +1,11 @@
+.heading-box {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    transition: transform 0.3s ease; /* Add transition for smooth effect */
+  }
+  
+  .heading-box:hover {
+    transform: translateY(-5px); /* Move box up on hover for a lifting effect */
+  }
+  
